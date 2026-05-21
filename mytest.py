@@ -4,7 +4,6 @@ def test_function():
     feature_function()
 
 def feature_function():
-    print("This is a new feature function.")
-    print("feature commit")
+    print("one sentence from feature")
 
 test_function()
