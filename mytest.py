@@ -4,5 +4,6 @@ def test_function():
 
 def feature_function():
     print("change from main")
+    print("change content from feature")
 
 test_function()
