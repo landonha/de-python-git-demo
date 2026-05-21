@@ -1,6 +1,5 @@
 def test_function():
-    print("Hello World!")
-    print("new content from clone repo")
+    print("This is from main debugging")
     feature_function()
 
 def feature_function():
